@@ -1,0 +1,17 @@
+{
+    "name": "WidgetBarrier",
+    "version": "1.0.0",
+    "keywords": "Widget,Barrier",
+    "description": "障碍物检测应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetBarrier.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
